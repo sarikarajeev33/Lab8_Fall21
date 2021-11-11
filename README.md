@@ -1,5 +1,5 @@
 Lab 8
-Due: Mon Nov 9, 11:59 pm
+
 
 Problem
 A professor needs a program that will choose a random student in class to call on when no one is raising their hand to offer an answer. Write a program that asks the user for a filename and then reads in the student names from the given file and stores them in a list. The program should then give the user a randomly-chosen name and give the option to continue or quit. If the user chooses to continue, the program should draw a new name (with the previous name having been removed from consideration).
